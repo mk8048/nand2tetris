@@ -1,2 +1,2 @@
 # nand2tetris
-This repository is for the nand2tetris project
+This repository is for the nand2tetris personal project.
